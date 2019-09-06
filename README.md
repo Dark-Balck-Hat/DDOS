@@ -5,8 +5,8 @@
 
 # Getting Started #
 ## git clone https://github.com/Dark-Balck-Hat/DDOS.git ##
-## cd ddostor ##
-## bash ddostor ##
+## cd DDOS ##
+## bash DDOS ##
 
 # A linux operating system. Recommend #
 - Kali Linux 
