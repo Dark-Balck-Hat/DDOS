@@ -1,18 +1,5 @@
 #!/usr/bin/python
 
-"""
-Tor's Hammer - Slow POST Denial Of Service Testing Tool
-Version 1.0 Beta
-Project home page: https://sourceforge.net/projects/torshammer
-
-Tor's Hammer is a slow post dos testing tool written in Python.
-It can also be run through the Tor network to be anonymized.
-If you are going to run it with Tor it assumes you are running Tor on 127.0.0.1:9050. 
-Kills most unprotected web servers running Apache and IIS via a single instance.
-Kills Apache 1.X and older IIS with ~128 threads.
-Kills newer IIS and Apache 2.X with ~256 threads.
-"""
-
 import os
 import re
 import time
