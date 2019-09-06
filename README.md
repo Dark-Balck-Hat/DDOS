@@ -4,7 +4,7 @@
 ## apt-get install tor ##
 
 # Getting Started #
-## git clone https://github.com/thelinuxchoice/ddostor ##
+## git clone https://github.com/Dark-Balck-Hat/DDOS.git ##
 ## cd ddostor ##
 ## bash ddostor ##
 
