@@ -1,6 +1,6 @@
 # DDOS
 
-#Install requirements Tor#
+# Install requirements Tor #
 ## apt-get install tor ##
 
 # Getting Started #
